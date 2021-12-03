@@ -1,0 +1,22 @@
+/**
+  * @name Dark+
+  * @author Clostro#0001, Dyskolos#0667
+  * @version Dark+1
+  * @description Dark Theme Discord.
+  * @authorId 788832278574923819
+  * @authorLink https://exploratia.fr
+  * @source https://github.com/Dyskolos-Dev/Discord_Theme
+  * @website https://dyskolos.fr
+  * @invite QTB4TbmaU9
+*/
+
+@import url('https://dyskolos-dev.github.io/Discord_Theme/Dark+.theme.css');
+
+:root {
+  --darkplus-bg: #212121;
+  --darkplus-bg2: #302f2f;
+  --darkplus-sec: #bb86fc;
+  --darkplus-links: #cdaef3;
+  --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/468141324906921984/852117175212179466/discord-avatar-512-YV0PV.png)
+}
+
